@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **projects**
 
-- 🌱 I’m currently learning **undergraduate student**
+- 🌱 I’m currently learning **software engineering undergraduate student**
 
 - 💬 Ask me about **java**
 
