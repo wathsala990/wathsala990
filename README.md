@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wathsala990&label=Profile%20views&color=0e75b6&style=flat" alt="wathsala990" /> </p>
 
 
-- 🔭 I’m currently working on **A web application using Spring boot & MariaDB and MERN stack projects **
+- 🔭 I’m currently working on **A web application using Spring boot & MariaDB and MERN stack projects**
 
 - 🌱 I’m currently learning **Spring Boot,Thymeleaf,MariaDB,React,Express.js,Node.js,MongoDB**
 
